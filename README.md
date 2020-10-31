@@ -6,4 +6,4 @@ I am 16 years old and I am programming and designing as a hobby
 ### Langugaes I am using or learning
 JavaScript, PHP, Python, C#, TypeScript
 
-[![Champs github stats](https://github-readme-stats.vercel.app/api?username=ChampOfGames)](https://github.com/anuraghazra/github-readme-stats)
+[![Champs github stats](https://github-readme-stats.vercel.app/api?username=ChampOfGames?theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
