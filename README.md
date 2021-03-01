@@ -4,7 +4,7 @@
 I am 16 years old and I am programming as a hobby
 
 ## Langugaes I am using or learning
-HTML, CSS, JavaScript, PHP, Python, C#, TypeScript
+HTML, CSS, JavaScript, PHP, Python, C#
 
 ## Contact
 
