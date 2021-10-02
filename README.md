@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## About me
-I am 16 years old and I am programming as a hobby
+I am 17 years old and I am programming as a hobby
 
 ## Langugaes I am using or learning
 HTML, CSS, JavaScript, PHP, Python, C#
