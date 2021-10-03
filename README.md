@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hello
 
 ## Hobbys
-Ethical Hacking && Programming && Books 
+Ethical Hacking && Programming && Reading 
 
 ## Langugaes I am using
 HTML, CSS, JavaScript, Python
