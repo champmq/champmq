@@ -1,13 +1,12 @@
 ## Hi there 👋
 
 ## About me
-I am 17 years old and I am programming as a hobby
+Ethical Hacking && Programming 
 
-## Langugaes I am using or learning
-HTML, CSS, JavaScript, PHP, Python, C#
+## Langugaes I am using
+HTML, CSS, JavaScript, Python
 
 ## Contact
-
 You can contact me via [Instagram](https://www.instagram.com/champmq/) or Discord (champmq#5745)
 
 [![Champs github stats](https://github-readme-stats.vercel.app/api?username=champmq&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
