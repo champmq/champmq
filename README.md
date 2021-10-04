@@ -3,7 +3,7 @@
 ## Hobbys
 Ethical Hacking && Programming && Reading 
 
-## Langugaes I am using
+## What I use
 HTML, CSS, JavaScript, Python
 
 ## Contact
